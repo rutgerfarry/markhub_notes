@@ -1,0 +1,6 @@
+- [ ] Buy textbooks
+- [ ] Do stats homework
+- [ ] Plan for Google visit
+- [ ] Schedule dentist appointment
+- [ ] Schedule oil change
+- [ ] Watch *Seven Days in Hell*
