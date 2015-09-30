@@ -14,3 +14,18 @@
 **Email:** anita.sarma@oregonstate.edu
 
 **Website:** https://oregonstate.instructure.com/courses/1555025
+
+
+## Intro to Statistics for Engineers (ST 314)
+**Professor:** Juliann Moore
+
+**Email:** mooreju@science.oregonstate.edu
+
+**Website:** https://oregonstate.instructure.com/courses/1563186
+
+## Japanese Culture I (CS 361)
+**Professor:** Etsuko Sisley
+
+**Email:** Etsuko.Sisley@oregonstate.edu
+
+**Website:** https://oregonstate.instructure.com/courses/1557734
