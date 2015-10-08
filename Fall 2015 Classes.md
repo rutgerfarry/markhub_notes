@@ -17,7 +17,7 @@
 - **Email:** mooreju@science.oregonstate.edu
 - **Website:** https://oregonstate.instructure.com/courses/1563186
 
-## Japanese Culture I (CS 361)
+## Japanese Culture I (JPN 331)
 - **Professor:** Etsuko Sisley
 - **Email:** Etsuko.Sisley@oregonstate.edu
 - **Website:** https://oregonstate.instructure.com/courses/1557734
